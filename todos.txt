@@ -1,3 +1,5 @@
-task0Task 1
-Task 2
-test2
+Clean the dishes
+Get Groceries 
+Walk the dog
+Mow the lawn
+Study for 1 hr
